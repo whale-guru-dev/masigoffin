@@ -1233,4 +1233,8 @@ body.nill-dark {
     font-size: 30px;
   }
 }
+
+.slider-img {
+  max-height: 500px;
+}
 /*# sourceMappingURL=style.css.map */
